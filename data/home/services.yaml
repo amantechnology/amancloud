@@ -3,25 +3,25 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "Our company specializes in providing cloud-based solutions for businesses. From infrastructure deployment to application management, we ensure seamless scalability, security, and peace of mind. Let us handle the technical complexities while you focus on innovation!"
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Solution development"
+      text: "Empower developers with our devops services. From seamless deployment to robust APIs, we provide the tools and infrastructure needed to create, iterate, and scale applications effortlessly."
       button:
-        label: "Learn more"
+        label: "Talk to us"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Cloud migration"
+      text: "Seamlessly transition to the cloud with our expert migration solutions. We handle the complexities, ensuring cost savings, scalability, and enhanced security. Trust us to make your cloud journey stress-free!"
       button:
-        label: "Learn more"
+        label: "Talk to us"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Managed Services"
+      text: "Delegate the management of your cloud solutions to us. We ensure smooth operations, proactive monitoring, and continuous optimization. Focus on your business while we handle the intricacies!"
       button:
-        label: "Learn more"
+        label: "Talk to us"
         url: "#"
